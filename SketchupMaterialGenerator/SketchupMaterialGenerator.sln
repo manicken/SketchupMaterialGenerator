@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SketchupMaterialGenerator", "SketchupMaterialGenerator.csproj", "{6074A533-B4F3-4A7F-8181-6F838D9E8F06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6074A533-B4F3-4A7F-8181-6F838D9E8F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6074A533-B4F3-4A7F-8181-6F838D9E8F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6074A533-B4F3-4A7F-8181-6F838D9E8F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6074A533-B4F3-4A7F-8181-6F838D9E8F06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCFC6F0-9E97-44A6-B137-3306DA359A7B}
+	EndGlobalSection
+EndGlobal
